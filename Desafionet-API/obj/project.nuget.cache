@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayEeZio83cL8gbiObbZZxfeZnZUbqX6nVvAhKBg6tUjOA8MsgUEyzv7jxEYDsX0+ZgWBkY2dWHxdChb5PgEi3g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ygor\\source\\repos\\Desafiodotnet\\Desafionet-API\\Desafionet-API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
